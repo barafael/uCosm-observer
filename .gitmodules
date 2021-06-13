@@ -1,0 +1,6 @@
+[submodule "sgp40-adafruit-kicad"]
+	path = sgp40-adafruit-kicad
+	url = https://github.com/barafael/sgp40-adafruit-kicad.git
+[submodule "sensirion-scd30-kicad"]
+	path = sensirion-scd30-kicad
+	url = https://github.com/barafael/sensirion-scd30-kicad.git
