@@ -4,3 +4,6 @@
 [submodule "sensirion-scd30-kicad"]
 	path = sensirion-scd30-kicad
 	url = https://github.com/barafael/sensirion-scd30-kicad.git
+[submodule "MDX-STWBP-R01-snapeda"]
+	path = MDX-STWBP-R01-snapeda
+	url = https://github.com/barafael/MDX-STWBP-R01-snapeda.git

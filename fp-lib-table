@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name scd30)(type KiCad)(uri ${KIPRJMOD}/sensirion-scd30-kicad/sensirion-scd30.pretty)(options "")(descr ""))
   (lib (name sgp40)(type KiCad)(uri ${KIPRJMOD}/sgp40-adafruit-kicad/sgp40-adafruit-breakout.pretty)(options "")(descr ""))
+  (lib (name mdx)(type KiCad)(uri ${KIPRJMOD}/MDX-STWBP-R01-snapeda)(options "")(descr ""))
 )
