@@ -3,4 +3,5 @@
   (lib (name sgp40)(type Legacy)(uri ${KIPRJMOD}/sgp40-adafruit-kicad/sgp40-adafruit-breakout.lib)(options "")(descr ""))
   (lib (name mdx-wb55)(type Legacy)(uri ${KIPRJMOD}/MDX-STWBP-R01-snapeda/MDX-STWBP-R01.lib)(options "")(descr ""))
   (lib (name uCosm-observer-rescue)(type Legacy)(uri ${KIPRJMOD}/uCosm-observer-rescue.lib)(options "")(descr ""))
+  (lib (name nrf52)(type Legacy)(uri ${KIPRJMOD}/waveshare-nrf52840-module/nrf52-waveshare.lib)(options "")(descr ""))
 )

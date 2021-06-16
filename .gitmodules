@@ -7,3 +7,6 @@
 [submodule "MDX-STWBP-R01-snapeda"]
 	path = MDX-STWBP-R01-snapeda
 	url = https://github.com/barafael/MDX-STWBP-R01-snapeda.git
+[submodule "waveshare-nrf52840-module"]
+	path = waveshare-nrf52840-module
+	url = https://github.com/barafael/waveshare-nrf52840-module
